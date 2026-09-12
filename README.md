@@ -4,6 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swxer/github-profile-3d-contrib/master/profile-3d-contrib/profile-city-animate.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swxer/github-profile-3d-contrib/master/profile-3d-contrib/profile-city-light-animate.svg">
   <img alt="Swxer's 3D Cyberpunk GitHub Skyline" src="https://raw.githubusercontent.com/Swxer/github-profile-3d-contrib/master/profile-3d-contrib/profile-city-animate.svg" width="100%">
 </picture>
 
