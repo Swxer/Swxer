@@ -2,11 +2,10 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/6c/67/70/6c6770c0fe19edacb022fff4787e0db4.gif"  />
-</div>
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swxer/github-profile-3d-contrib/master/profile-3d-contrib/profile-city-animate.svg">
+  <img alt="Swxer's 3D Cyberpunk GitHub Skyline" src="https://raw.githubusercontent.com/Swxer/github-profile-3d-contrib/master/profile-3d-contrib/profile-city-animate.svg" width="100%">
+</picture>
 
 <h2 align="left">Technology</h2>
 
@@ -32,10 +31,10 @@
 
 ###
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swxer/Swxer/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swxer/Swxer/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Swxer/Swxer/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
